@@ -1,0 +1,52 @@
+.navbar {
+    background-color: #1F618D !important;
+}
+.nav-link {
+    color: white !important;
+    font-weight: bold !important;
+}
+.dropdown-menu {
+    background-color: #1F618D;
+    color: white;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    color: #1F618D;
+}
+.heading > h1 {
+    text-shadow: 2px 2px 4px black;
+    font-size: 44px;
+    margin-bottom: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container > .details{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: auto;
+    font-size: large;
+    font-weight: 500;
+}
+
+.footer {
+    width: 100%;
+    background-color: #1F618D;
+    height: 40px;
+    margin-top: 65px;
+}
+.footer > h4 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.fa-copyright {
+    font-size: 20px !important;
+    margin-top: 6px;
+    margin-right: 8px;
+}
