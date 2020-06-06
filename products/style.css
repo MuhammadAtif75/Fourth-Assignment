@@ -1,0 +1,49 @@
+.navbar {
+    background-color: #1F618D !important;
+}
+.nav-link {
+    color: white !important;
+    font-weight: bold !important;
+}
+.dropdown-menu {
+    background-color: #1F618D;
+    color: white;
+}
+.fa-shopping-cart,.fa-user-circle-o {
+    font-size: 20px !important;
+}
+
+.fa-truck {
+    font-size: 50px !important;
+    margin-right: 10px;
+}
+.fa-phone{
+    font-size: 50px !important;
+    margin-right: 10px;
+}
+.fa-thumbs-o-up {
+    font-size: 50px !important;
+    margin-right: 10px;
+}
+
+.mainCard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product {
+    margin-top: 50px;
+    display: flex;
+}
+.image {
+    width: 250px;
+    height: auto !important;
+    margin-bottom: 10px;
+}
+.image-text {
+    width: 100%;
+    margin-left: 20px;
+}
